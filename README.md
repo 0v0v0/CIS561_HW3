@@ -4,38 +4,40 @@
 
 ### Uniform Sample Plane
 
-![](.Uniform.png)
+![](./Uniform.png)
 
 ### Stratified Sample Plane
 
-![](.stratified.png)
+![](./stratified.png)
 
 ## Distribution
 
 ### Disc Uniform:
 
-![](.disk.png)
+![](./disk.png)
 
 ### Disc Concentratic
 
-![](.disk2.png)
+![](./disk2.png)
 
 ### Sphere
 
-![](.sphere.png)
+![](./sphere.png)
 
 ### Sphere Cap
 
-![](.cap.png)
+![](./cap.png)
 
 ### Hemi Sphere
 
-![](.hemisphere.png)
+![](./hemisphere.png)
 
 ### Hemi Sphere Cosine
 
-![](.hemisphere_cosine.png)
+![](./hemisphere_cosine.png)
 
 ## PDF
 
-![](.PDF.png)
+![](./PDF.png)
+
+As you can see, the sphere cap's PDF is wrong. 
